@@ -46,7 +46,7 @@ text-align: center;
 }
 
 #home{
-	background: url(img/Nice.jpg) no-repeat center center fixed;
+	background: url(./img/Nice.jpg) no-repeat center center fixed;
 	display: table;
 	height: 100%;
 	position: relative;
